@@ -3,7 +3,8 @@
 "active":477,
 "recovered":6,
 "deceased":3,
-"delta":{ 
+"delta":{
+"confirmed":"+74",
 "deceased":"+2"
   
 }
