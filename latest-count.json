@@ -3,4 +3,8 @@
 "active":477,
 "recovered":6,
 "deceased":2
+"delta":{ 
+"deceased":1
+  
+}
 }
