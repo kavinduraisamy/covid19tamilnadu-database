@@ -1,11 +1,11 @@
 {
 "confirmed":621,
-"active":607,
-"recovered":8,
+"active":602,
+"recovered":6,
 "deceased":6,
 "delta":{
 "active":"",
-"recovered":"",
+"recovered":"+5",
 "confirmed":"+50",
 "deceased":"+1"
 }
